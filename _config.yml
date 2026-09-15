@@ -1,0 +1,21 @@
+theme: jekyll-theme-cayman
+
+title: "JewelSync — Shopify Live Metal Price Updater"
+description: "Automatically update gold, silver, and platinum jewelry prices on Shopify based on live market rates. Formula-based bulk pricing automation for jewelry stores."
+
+url: "https://klyxagency.github.io"
+baseurl: "/Shopify-App-Live-Metal-Price-Updater-Jwelsync"
+
+author:
+  name: KLYX
+  url: https://klyx.agency
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://klyx.agency/JewelSync/og-image.png
